@@ -1,2 +1,6 @@
-# hello-world
-一个简单的超市后台管理系统
+public class HelloWorld {
+    public static void main(string[] args){
+        System.out,println("CXH的修改")
+    }
+}
+
